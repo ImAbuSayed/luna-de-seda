@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/luna-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Luna de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luna-de-seda/) |
+| **Get License** | [Obtain a Music License for Luna de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luna-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `bec17fabdfb2c319e50fc4568e61ca8904558cb07ce124be1589fbc755e8866a` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

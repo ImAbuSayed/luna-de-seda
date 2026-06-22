@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Luna de seda
+
+This log tracks the cryptographic history and versioning for the song **Luna de seda** (luna-de-seda).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T07:06:00.477282 | `v1` | `bec17fabdfb2c319e50fc4568e61ca8904558cb07ce124be1589fbc755e8866a` | `a6341ffdeffac46465018eaef4e078ce8cd52677bec9c43b7cf86e0e1084e70f` | `2026-06-22_luna-de-seda-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
