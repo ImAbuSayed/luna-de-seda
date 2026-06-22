@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/luna-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Luna de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luna-de-seda/) |
+| **Get License** | [Get License For Luna de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luna-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bajo la luna de seda te quiero robar
+> Tu cuerpo y el mío esta noche no quieren parar
+> Con ese ritmo salvaje me vas a matar
+> Bebé, tú eres mi vicio y no me quiero curar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
